@@ -5,6 +5,9 @@ body {
     background-color: rgb(9, 29, 206);
 }
 
+// customize some Bootstrap variables
+$primary: darken(#428bca, 20%);
+
 // Include all of Bootstrap
 // @import "~bootstrap/scss/bootstrap";
 @import "node_modules/bootstrap/scss/bootstrap";

@@ -17,4 +17,5 @@ Class DefaultController extends AbstractController
                 'website' => 'Bienvenue sur Wild Séries !',
         ]);
     }
+
 }
